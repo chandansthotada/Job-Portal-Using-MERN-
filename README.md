@@ -40,11 +40,16 @@ JWT Authentication
 Bcrypt (Password Hashing)
 
 📁 Project Structure
+
 Job-Portal-Using-MERN
 │
+
 ├── client        → React Frontend
+
 ├── server        → Node/Express Backend
+
 ├── README.md
+
 └── package.json
 
 ⚙️ Installation & Setup
