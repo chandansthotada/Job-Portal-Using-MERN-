@@ -8,6 +8,7 @@ This platform allows recruiters to post jobs and job seekers to search and apply
 👤 Authentication
 
 User Signup & Login (JWT आधारित authentication)
+
 Role-based access (Admin / Job Seeker)
 
 💼 Job Management
@@ -29,16 +30,27 @@ Track applied jobs
 
 🛠️ Tech Stack
 Frontend
+
 React.js
+
 React Router
+
 Axios
+
 CSS / Bootstrap
+
 Backend
+
 Node.js
+
 Express.js
+
 MongoDB
+
 Mongoose
+
 JWT Authentication
+
 Bcrypt (Password Hashing)
 
 📁 Project Structure
