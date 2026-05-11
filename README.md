@@ -29,7 +29,8 @@ Upload resume
 Track applied jobs
 
 🛠️ Tech Stack
-Frontend
+
+Frontend :
 
 React.js
 
@@ -39,7 +40,7 @@ Axios
 
 CSS / Bootstrap
 
-Backend
+Backend :
 
 Node.js
 
