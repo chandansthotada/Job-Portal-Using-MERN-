@@ -7,20 +7,24 @@ This platform allows recruiters to post jobs and job seekers to search and apply
 👤 Authentication
 User Signup & Login (JWT आधारित authentication)
 Role-based access (Admin / Job Seeker)
+
 💼 Job Management
 Recruiters can:
 Post new jobs
 Edit jobs
 Delete jobs
 View applicants
+
 🔎 Job Search
 Search jobs by keyword
 Filter jobs by location & category
 View job details
+
 📄 Job Application
 Apply to jobs
 Upload resume
 Track applied jobs
+
 🛠️ Tech Stack
 Frontend
 React.js
@@ -34,6 +38,7 @@ MongoDB
 Mongoose
 JWT Authentication
 Bcrypt (Password Hashing)
+
 📁 Project Structure
 Job-Portal-Using-MERN
 │
@@ -41,6 +46,7 @@ Job-Portal-Using-MERN
 ├── server        → Node/Express Backend
 ├── README.md
 └── package.json
+
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/chandansthotada/Job-Portal-Using-MERN-.git
