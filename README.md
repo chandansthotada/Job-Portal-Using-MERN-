@@ -98,5 +98,5 @@ Resume parsing
 Admin dashboard analytics
 Deployment (Render / Vercel)
 
-👨‍💻 Author
+👨‍💻 Author :
 Chandan T S
