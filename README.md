@@ -108,10 +108,17 @@ Post Job Page
 Apply Job Page
 
 🎯 Future Improvements
+
 Email notifications
 Resume parsing
 Admin dashboard analytics
 Deployment (Render / Vercel)
+
+🤝 Contributing
+
+Contributions are welcome!
+
+Feel free to fork this repo and submit a pull request.
 
 👨‍💻 Author :
 Chandan T S
