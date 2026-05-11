@@ -79,11 +79,13 @@ Create a .env file inside server folder and add:
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 PORT=5000
+
 📸 Screenshots (Add Later)
 Login Page
 Job Listings
 Post Job Page
 Apply Job Page
+
 🎯 Future Improvements
 Email notifications
 Resume parsing
