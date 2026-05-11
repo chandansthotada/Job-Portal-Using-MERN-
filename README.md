@@ -48,9 +48,11 @@ Job-Portal-Using-MERN
 └── package.json
 
 ⚙️ Installation & Setup
+
 1️⃣ Clone the Repository
 git clone https://github.com/chandansthotada/Job-Portal-Using-MERN-.git
 cd Job-Portal-Using-MERN-
+
 2️⃣ Setup Backend
 cd server
 npm install
