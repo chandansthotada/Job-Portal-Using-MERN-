@@ -6,6 +6,7 @@ This platform allows recruiters to post jobs and job seekers to search and apply
 🚀 Features
 
 👤 Authentication
+
 User Signup & Login (JWT आधारित authentication)
 Role-based access (Admin / Job Seeker)
 
