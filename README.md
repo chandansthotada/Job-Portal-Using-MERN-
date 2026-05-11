@@ -4,6 +4,7 @@ A full-stack Job Portal web application built using the MERN Stack (MongoDB, Exp
 This platform allows recruiters to post jobs and job seekers to search and apply for jobs.
 
 🚀 Features
+
 👤 Authentication
 User Signup & Login (JWT आधारित authentication)
 Role-based access (Admin / Job Seeker)
